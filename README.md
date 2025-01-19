@@ -14,4 +14,4 @@
 
 ## How to setup
 - Download the APKs from the draft releases
-- Take OBB from ApkPure [v8.2.15]() 
+- CN OBB include
